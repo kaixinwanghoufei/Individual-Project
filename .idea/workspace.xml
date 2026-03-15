@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a44944b0-0f1f-41bf-8b34-43483b3ae12b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../$RECYCLE.BIN/S-1-5-21-544708493-3295594044-2957788547-1001/$RB5ILDQ/gMhR8PGY.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/css/login-reg.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../public/css/login-reg.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/html/mockDashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/db.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/geodb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/geodb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/raw_database/original_database_from_thaipost.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/raw_database/raw_database.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/tools/convert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/tools/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/database/tools/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dependencies/JQL.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dependencies/typeahead.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dependencies/zip.js/inflate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dependencies/zip.js/z-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dependencies/zip.js/zip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dist/jquery.Thailand.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/dist/jquery.Thailand.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/src/jquery.Thailand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/jquery.Thailand.js/src/jquery.Thailand.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/config/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/controllers/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/controllers/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/controllers/food.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/controllers/order.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/controllers/order.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/middleware/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/middleware/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/models/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/models/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/models/Food.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/models/Order.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/models/Order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/routes/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/routes/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/routes/staff.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/routes/staff.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/routes/user.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/routes/user.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/components/alertBlock.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/components/alertBlock.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/components/cartModal.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/components/cartModal.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/components/map.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/components/navbar.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/components/navbar.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/components/qrCode.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/components/qrCode.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/partials/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/partials/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/partials/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/partials/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/publicPages/about.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/publicPages/about.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/publicPages/health.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/publicPages/login.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/publicPages/login.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/publicPages/menus.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/publicPages/register.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/publicPages/register.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/staffPages/dashboard.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/staffPages/dashboard.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/staffPages/foodForm.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/staffPages/foods.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/staffPages/orderForm.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/staffPages/orders.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/userPages/checkout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/userPages/checkout.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/userPages/orderDetail.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/views/userPages/orderDetail.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/views/userPages/orders.ejs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3Aw3q5RgGUuxfTxwryOqjovCeke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/pattama code/challenge4-workshop",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a44944b0-0f1f-41bf-8b34-43483b3ae12b" name="Changes" comment="" />
+      <created>1773489992638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773489992638</updated>
+    </task>
+    <servers />
+  </component>
+</project>
